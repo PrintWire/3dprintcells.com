@@ -15,7 +15,7 @@ ogImage       = "/images/04_vascularized_heart.png"
 siteName      = "3D Print Cells"
 logoHtml      = '3D&nbsp;PRINT&nbsp;<span class="ed-logo-accent">CELLS</span>'
 tagline       = "High-throughput cell bioprinting for drug discovery, disease modelling, and in vitro assay development."
-description   = "3D Print Cells covers the science and application of cell-laden bioprinting — from spheroid culture to organ-on-chip and high-content screening models."
+description   = "3D Print Cells is a PrintWire network site about cell bioprinting. PrintWire passes quote requests to specialised manufacturers and returns pricing. PrintWire does not manufacture parts itself."
 keywords      = "cell bioprinting, 3D cell culture, spheroids, organ-on-chip, drug discovery, in vitro models, GelMA"
 logoEmoji     = "🔬"
 contactEmail  = "maxdavisgroup@gmail.com"
